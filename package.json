@@ -1,0 +1,16 @@
+{
+  "name": "pdf-my-code",
+  "version": "0.0.1",
+  "description": "Helper to turn folders of code into a single PDF",
+  "main": "index.js",
+  "author": "Hunter Browning",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "commander": "^2.8.1",
+    "insist-types": "^1.0.7",
+    "pdfkit": "^0.7.1",
+    "prompt": "^0.2.14",
+    "recursive-readdir": "^1.2.1"
+  }
+}
